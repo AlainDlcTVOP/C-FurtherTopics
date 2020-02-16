@@ -6,7 +6,7 @@ int main()
 
 {
 
-    int value = 20;
+    uint8_t value = 20;
 
     /*add*/
 
