@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* Basic ternary*/
 int main()
 {
     int a, b;
