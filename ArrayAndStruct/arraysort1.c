@@ -35,7 +35,7 @@ int main()
         }
 
     /* Display the sorted array */
-    puts("Unsorted array ");
+    puts("Snsorted array ");
     for (x = 0; x < SIZE; x++)
 
         printf("%3d", numbers[x]);

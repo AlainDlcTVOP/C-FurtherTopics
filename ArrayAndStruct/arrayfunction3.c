@@ -6,14 +6,14 @@ void generate(int *a);
 
 int main()
 {
-    int x ;
+    int x;
     int array[10];
 
     puts("Here are the generated numbers");
     generate(array);
 
-    for(x = 0; x < 10; x++)
-    printf(" %d ", array[x]);
+    for (x = 0; x < 10; x++)
+        printf(" %d ", array[x]);
 
     putchar('\n');
 
