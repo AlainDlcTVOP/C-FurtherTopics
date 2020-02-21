@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 10
+#define SIZE 1000
 
 int compare(const void *a, const void *b);
 int main()
